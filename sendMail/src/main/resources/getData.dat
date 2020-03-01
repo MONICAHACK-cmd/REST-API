@@ -1,0 +1,12 @@
+PriceService_PROD=http://hfdvcmsprkapp01.vm.itg.corp.us.shldcorp.com:8181/searspriceservices/getcurrentprice/pid/04101762000
+FUTURE_PRICE_SERVICE_PROD=http://trstdynmapp1.vm.itg.corp.us.shldcorp.com:8888/searsprice/getfutureprice/pid/07797358000
+InventoryServiceProd=http://mkt-ias.prod.global.s.com/iasserver/ias/inventory/v2?urn:sku:pid:04101762000&urn:facility:sears:0001708
+SKU_INFO_SERVICE_PROD=https://mykmart.com/HierarchyService/getSkus?div=43&item=17389
+Mongo_Load_service_PROD=http://trprsmkdwnapp3.intra.searshc.com:8082/test/
+PRICE_SERVICE_QA=http://hfdvcmsprkapp01.vm.itg.corp.us.shldcorp.com:8181/searspriceservices/getcurrentprice/pid/04101762000
+FUTURE_PRICE_SERVICE_QA=http://trstdynmapp1.vm.itg.corp.us.shldcorp.com:8888/searsprice/getfutureprice/pid/07797358000
+SKU_INFO_SERVICE_QA=https://websealqa.mykmart.com/HierarchyService/getSkus?div=43&item=17389
+MONGO_LOAD_SERVICE_QA=http://hfqasmkdwnapp2.intra.searshc.com:8082/test/
+ERROR_REPORT=http://hfdvcmsprkapp01.vm.itg.corp.us.shldcorp.com:8092/test/
+MONITORING_SCRIPT_PROD=http://trprprcsprkapp01.vm.itg.corp.us.shldcorp.com:8090/test/
+MONITORING_SCRIPT_DEV=http://hfdvcmsprkapp01.vm.itg.corp.us.shldcorp.com:8090/test/
